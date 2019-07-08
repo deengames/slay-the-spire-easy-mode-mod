@@ -1,7 +1,0 @@
-<dependency>
-    <groupId>basemod</groupId>
-    <artifactId>basemod</artifactId>
-    <version>2.10.0</version>
-    <scope>system</scope>
-    <systemPath>${basedir}/../lib/BaseMod.jar</systemPath> // systemPath should be the path to where BaseMod.jar is located
-</dependency>

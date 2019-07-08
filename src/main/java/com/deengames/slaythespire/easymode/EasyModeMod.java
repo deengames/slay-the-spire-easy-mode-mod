@@ -23,6 +23,6 @@ public class EasyModeMod implements ISubscriber, PostBattleSubscriber {
 	@Override
 	public void receivePostBattle(AbstractRoom battleRoom) {
 		AbstractPlayer player = AbstractDungeon.player;
-		player.currentHealth = player.maxHealth;
+		player.heal(player.maxHealth);
 	}
 }

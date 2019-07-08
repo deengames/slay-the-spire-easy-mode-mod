@@ -3,7 +3,7 @@
   "name": "Easy Mode",
   "author_list": ["NightBlade9"],
   "description": "Health restores to max after each battle.",
-  "version": "1.0",
+  "version": "1.0.0",
   "sts_version": "07-05-2019",
   "mts_version": "2.6.0",
   "dependencies": ["basemod"]
